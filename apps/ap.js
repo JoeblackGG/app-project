@@ -1,4 +1,4 @@
-
+//realizando la app.
 class Product{
     constructor(name, price, year){
         this.name = name;
